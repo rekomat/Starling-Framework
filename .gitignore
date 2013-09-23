@@ -11,3 +11,6 @@ starling/doc/html/
 
 # OS X folders
 .DS_Store
+
+# Yes, we have svn running too
+.svn
